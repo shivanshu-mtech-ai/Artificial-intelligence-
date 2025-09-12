@@ -1,8 +1,5 @@
 # AI-523 Python Programming Laboratory
 # Assignment No 1
-# Date of Assignment: 05/09/2025
-# Due Date: 12/09/2025
-# Max Marks: 05
 # Submitted by: Shivanshu Shrivastava
 # Roll No: 25201341
 
