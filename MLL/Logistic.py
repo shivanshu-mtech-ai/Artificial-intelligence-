@@ -13,7 +13,6 @@ data = load_iris()
 X = data.data
 y = data.target
 
-# Convert to binary classification (Class 0 vs others)
 y = (y == 0).astype(int)
 
 # Split dataset
