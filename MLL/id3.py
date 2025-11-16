@@ -66,3 +66,5 @@ id3_tree = build_id3_tree(df_tennis, feature_columns, target_column)
 
 print("Decision Tree (ID3):")
 print(id3_tree)
+# Output - >
+# {'Outlook': {'Overcast': 'Yes', 'Rain': {'Wind': {'Strong': 'No', 'Weak': 'Yes'}}, 'Sunny': 'No'}}
